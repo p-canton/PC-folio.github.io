@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PC-folio.github.io/static/css/main.774d4699.chunk.css",
+    "main.js": "/PC-folio.github.io/static/js/main.332b31ae.chunk.js",
+    "main.js.map": "/PC-folio.github.io/static/js/main.332b31ae.chunk.js.map",
+    "runtime~main.js": "/PC-folio.github.io/static/js/runtime~main.24e2aead.js",
+    "runtime~main.js.map": "/PC-folio.github.io/static/js/runtime~main.24e2aead.js.map",
+    "static/css/2.7f589655.chunk.css": "/PC-folio.github.io/static/css/2.7f589655.chunk.css",
+    "static/js/2.db1a82a5.chunk.js": "/PC-folio.github.io/static/js/2.db1a82a5.chunk.js",
+    "static/js/2.db1a82a5.chunk.js.map": "/PC-folio.github.io/static/js/2.db1a82a5.chunk.js.map",
+    "index.html": "/PC-folio.github.io/index.html",
+    "precache-manifest.92b556660a530c2e2bacc787b1b90164.js": "/PC-folio.github.io/precache-manifest.92b556660a530c2e2bacc787b1b90164.js",
+    "service-worker.js": "/PC-folio.github.io/service-worker.js",
+    "static/css/2.7f589655.chunk.css.map": "/PC-folio.github.io/static/css/2.7f589655.chunk.css.map",
+    "static/css/main.774d4699.chunk.css.map": "/PC-folio.github.io/static/css/main.774d4699.chunk.css.map",
+    "static/media/Bar100.svg": "/PC-folio.github.io/static/media/Bar100.6013446e.svg",
+    "static/media/Bar85.svg": "/PC-folio.github.io/static/media/Bar85.4e562e85.svg",
+    "static/media/ExamplePhoto.jpg": "/PC-folio.github.io/static/media/ExamplePhoto.05dcdde0.jpg",
+    "static/media/LogoPC.svg": "/PC-folio.github.io/static/media/LogoPC.539413c3.svg",
+    "static/media/LogoPCBW.svg": "/PC-folio.github.io/static/media/LogoPCBW.8594af23.svg",
+    "static/media/PabloCanton-CV.pdf": "/PC-folio.github.io/static/media/PabloCanton-CV.006fffb0.pdf",
+    "static/media/PabloPicture.svg": "/PC-folio.github.io/static/media/PabloPicture.941cb115.svg",
+    "static/media/font-awesome.min.css": "/PC-folio.github.io/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
