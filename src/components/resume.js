@@ -8,10 +8,11 @@ import DocPDF from './Documents/PabloCanton-CV.pdf';
 class Resume extends Component {
   render() {
     return(
-      <div style={{padding: '2em', paddingTop: '7em', paddingBottom: "8em"}}>
-        <div className="ColRight">
+      <div style={{paddingTop: '7em', paddingBottom: "8em", paddingLeft: '10%', paddingRight: '10%', overflowX: 'inherit'}}>
+        <div className="ColRight ScrollBar" style={{paddingBottom: "5em",}}>
         <h1 className="Tittle2" style={{textAlign: 'left', top: '0'}}>Experience</h1>
         <h1 className="Tittle2" style={{textAlign: 'left'}}>Jobs</h1>
+        <div>
             <h3 style={{display: 'inline'}}>Slush</h3>
               <p style={{display: 'inline', paddingLeft: '1em', paddingRight: '1em'}}>
               (Dec 2018 , Helsinki.)</p>
@@ -126,7 +127,8 @@ class Resume extends Component {
                   or Chemistry.</p>
             </details>
           </div>
-          <div className="ColLeft PosFixR ScrollBar">
+          </div>
+          <div className="ColLeft PosFixR ScrollBar" style={{right: '10%'}}>
             <h3 style={{color: 'white', fontSize:'2em', textAlign: 'center'}}>
             Skills</h3>
               <p style={{color: '#f3f3f3', fontSize:'1.5em',
