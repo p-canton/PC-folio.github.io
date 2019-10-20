@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65e993ae169a6336061704df31ab1748",
+    "revision": "ab18309b0fc0a1dd3499654a82cd7796",
     "url": "/PC-folio.github.io/index.html"
   },
   {
-    "revision": "57679cd05a47a51019e5",
+    "revision": "9da8a196cdf58e1b9cc0",
     "url": "/PC-folio.github.io/static/css/2.7f589655.chunk.css"
   },
   {
-    "revision": "520a228afe12c082108d",
+    "revision": "f4beef14b1e73232c4b6",
     "url": "/PC-folio.github.io/static/css/main.cb83592c.chunk.css"
   },
   {
-    "revision": "57679cd05a47a51019e5",
-    "url": "/PC-folio.github.io/static/js/2.6726aaf3.chunk.js"
+    "revision": "9da8a196cdf58e1b9cc0",
+    "url": "/PC-folio.github.io/static/js/2.aeb3adf9.chunk.js"
   },
   {
-    "revision": "520a228afe12c082108d",
-    "url": "/PC-folio.github.io/static/js/main.089072ae.chunk.js"
+    "revision": "f4beef14b1e73232c4b6",
+    "url": "/PC-folio.github.io/static/js/main.ef582f45.chunk.js"
   },
   {
     "revision": "8033df83e729a8dc93ba",
@@ -26,18 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c01e5f8f71a7dd3f9c44e26ea00f20ec",
     "url": "/PC-folio.github.io/static/media/Adidas.c01e5f8f.jpg"
-  },
-  {
-    "revision": "71ccf83a15971310a0a926ecc31f2dc2",
-    "url": "/PC-folio.github.io/static/media/AdidasAll.71ccf83a.jpg"
-  },
-  {
-    "revision": "c06dc3e57c3bb7469ede7f88e10169e9",
-    "url": "/PC-folio.github.io/static/media/AdidasHack.c06dc3e5.jpg"
-  },
-  {
-    "revision": "7603c0d395b37769f1f665357376d5de",
-    "url": "/PC-folio.github.io/static/media/AdidasWin.7603c0d3.jpg"
   },
   {
     "revision": "6013446eca72933b40ff5e336281282c",
@@ -86,14 +74,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "06f70c8972e551233945cfa71aa829aa",
     "url": "/PC-folio.github.io/static/media/Posti.06f70c89.jpg"
-  },
-  {
-    "revision": "b158a54888c30eb19e4b7f2797bcf019",
-    "url": "/PC-folio.github.io/static/media/TechAdidas1.b158a548.png"
-  },
-  {
-    "revision": "ee36074cbd86d176dfaf754d593f8bf7",
-    "url": "/PC-folio.github.io/static/media/TechAdidas2.ee36074c.png"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
