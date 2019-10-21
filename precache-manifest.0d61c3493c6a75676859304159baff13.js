@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e03aef1df3f50c6227d918a73e4a431",
+    "revision": "fcc67e709e18fdaf3203eada640e7bf0",
     "url": "/PC-folio.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PC-folio.github.io/static/css/2.7f589655.chunk.css"
   },
   {
-    "revision": "9ce65283751c29f3d404",
+    "revision": "d2c541c9f0c381a159b7",
     "url": "/PC-folio.github.io/static/css/main.adc54e30.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PC-folio.github.io/static/js/2.585cc843.chunk.js"
   },
   {
-    "revision": "9ce65283751c29f3d404",
-    "url": "/PC-folio.github.io/static/js/main.4cdd25bc.chunk.js"
+    "revision": "d2c541c9f0c381a159b7",
+    "url": "/PC-folio.github.io/static/js/main.107d6fcd.chunk.js"
   },
   {
     "revision": "8033df83e729a8dc93ba",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PC-folio.github.io/static/media/LogoPCBW.8594af23.svg"
   },
   {
-    "revision": "006fffb056c47cd6f99db4ac80dba99b",
-    "url": "/PC-folio.github.io/static/media/PabloCanton-CV.006fffb0.pdf"
+    "revision": "8f488c075dac94b339acfc7b0625c478",
+    "url": "/PC-folio.github.io/static/media/PabloCanton-CV.8f488c07.pdf"
   },
   {
     "revision": "941cb115e256fc465ceaeff2ffefe2e3",
