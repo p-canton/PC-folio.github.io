@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fcc67e709e18fdaf3203eada640e7bf0",
+    "revision": "9624c76b08755b56aa78fab757effb1e",
     "url": "/PC-folio.github.io/index.html"
   },
   {
-    "revision": "2df4f85242ff8e0f5a9c",
+    "revision": "6aa4b78959aca6253dcf",
     "url": "/PC-folio.github.io/static/css/2.7f589655.chunk.css"
   },
   {
-    "revision": "d2c541c9f0c381a159b7",
+    "revision": "7572b7feeabd0657cf6a",
     "url": "/PC-folio.github.io/static/css/main.adc54e30.chunk.css"
   },
   {
-    "revision": "2df4f85242ff8e0f5a9c",
-    "url": "/PC-folio.github.io/static/js/2.585cc843.chunk.js"
+    "revision": "6aa4b78959aca6253dcf",
+    "url": "/PC-folio.github.io/static/js/2.fbcbab24.chunk.js"
   },
   {
-    "revision": "d2c541c9f0c381a159b7",
-    "url": "/PC-folio.github.io/static/js/main.107d6fcd.chunk.js"
+    "revision": "7572b7feeabd0657cf6a",
+    "url": "/PC-folio.github.io/static/js/main.7dc6e8a8.chunk.js"
   },
   {
     "revision": "8033df83e729a8dc93ba",
@@ -40,16 +40,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PC-folio.github.io/static/media/AdidasWin.7603c0d3.jpg"
   },
   {
+    "revision": "6a7295457ac8cd20ba70f516425915d6",
+    "url": "/PC-folio.github.io/static/media/BF1.6a729545.png"
+  },
+  {
+    "revision": "63e375a9dbc78b5fbdea9932a4b7d8de",
+    "url": "/PC-folio.github.io/static/media/BF2.63e375a9.png"
+  },
+  {
+    "revision": "f63946f76f600c8e474ac873a237d5c8",
+    "url": "/PC-folio.github.io/static/media/BF3.f63946f7.png"
+  },
+  {
+    "revision": "6a7295457ac8cd20ba70f516425915d6",
+    "url": "/PC-folio.github.io/static/media/BF5.6a729545.png"
+  },
+  {
+    "revision": "f447ece26004008270bd3aed3ddb82cd",
+    "url": "/PC-folio.github.io/static/media/BF6.f447ece2.png"
+  },
+  {
+    "revision": "7a374540f5b7170cca661d7e45de6aad",
+    "url": "/PC-folio.github.io/static/media/BF7.7a374540.png"
+  },
+  {
+    "revision": "b162c8d7bef01961f3427ddf35cceaa4",
+    "url": "/PC-folio.github.io/static/media/BFscreens.b162c8d7.jpg"
+  },
+  {
     "revision": "6013446eca72933b40ff5e336281282c",
     "url": "/PC-folio.github.io/static/media/Bar100.6013446e.svg"
   },
   {
     "revision": "4e562e85d42c0fe811f40204848561a5",
     "url": "/PC-folio.github.io/static/media/Bar85.4e562e85.svg"
-  },
-  {
-    "revision": "04c2d5d2158e8ea530ee87b1fd390718",
-    "url": "/PC-folio.github.io/static/media/BetsFriends.04c2d5d2.svg"
   },
   {
     "revision": "62048151dbe3c63d6dd433ecae5c1844",
@@ -64,8 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PC-folio.github.io/static/media/Contacts.2cabd3d9.jpg"
   },
   {
+    "revision": "945f55500ae686cb3fc8730fb426eda3",
+    "url": "/PC-folio.github.io/static/media/GOCAll.945f5550.jpg"
+  },
+  {
     "revision": "5120751358ca1ba156fc45329dbf7013",
     "url": "/PC-folio.github.io/static/media/HackathonGOC.51207513.jpg"
+  },
+  {
+    "revision": "d01e0f677f215d1953a89eaeca5a28ba",
+    "url": "/PC-folio.github.io/static/media/Kare.d01e0f67.mp4"
   },
   {
     "revision": "539413c31a4dc14da8b97a672b562811",
@@ -76,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PC-folio.github.io/static/media/LogoPCBW.8594af23.svg"
   },
   {
-    "revision": "8f488c075dac94b339acfc7b0625c478",
-    "url": "/PC-folio.github.io/static/media/PabloCanton-CV.8f488c07.pdf"
+    "revision": "ef3141db6c47438bb10cb96b8fa655ad",
+    "url": "/PC-folio.github.io/static/media/PabloCanton-CV.ef3141db.pdf"
   },
   {
     "revision": "941cb115e256fc465ceaeff2ffefe2e3",
