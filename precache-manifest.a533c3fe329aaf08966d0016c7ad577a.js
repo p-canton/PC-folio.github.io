@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9624c76b08755b56aa78fab757effb1e",
+    "revision": "b030363cc6dcd5104aa781327b8fadc7",
     "url": "/PC-folio.github.io/index.html"
   },
   {
-    "revision": "6aa4b78959aca6253dcf",
+    "revision": "4b8e7b90eb7cca70808c",
     "url": "/PC-folio.github.io/static/css/2.7f589655.chunk.css"
   },
   {
-    "revision": "7572b7feeabd0657cf6a",
+    "revision": "3acce558d79662cd4736",
     "url": "/PC-folio.github.io/static/css/main.adc54e30.chunk.css"
   },
   {
-    "revision": "6aa4b78959aca6253dcf",
-    "url": "/PC-folio.github.io/static/js/2.fbcbab24.chunk.js"
+    "revision": "4b8e7b90eb7cca70808c",
+    "url": "/PC-folio.github.io/static/js/2.d17a0933.chunk.js"
   },
   {
-    "revision": "7572b7feeabd0657cf6a",
-    "url": "/PC-folio.github.io/static/js/main.7dc6e8a8.chunk.js"
+    "revision": "3acce558d79662cd4736",
+    "url": "/PC-folio.github.io/static/js/main.bd119669.chunk.js"
   },
   {
     "revision": "8033df83e729a8dc93ba",
@@ -108,6 +108,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PC-folio.github.io/static/media/LogoPCBW.8594af23.svg"
   },
   {
+    "revision": "613600fc57f3c7cbf5661db5a3f149d2",
+    "url": "/PC-folio.github.io/static/media/PS1.613600fc.png"
+  },
+  {
+    "revision": "00a054d8ff905065088e7ee21a8a16e7",
+    "url": "/PC-folio.github.io/static/media/PS2.00a054d8.png"
+  },
+  {
+    "revision": "0c84a7767a8e513b0829c7fe6133ad11",
+    "url": "/PC-folio.github.io/static/media/PS3.0c84a776.png"
+  },
+  {
+    "revision": "9b52281533057159626782de615d00d7",
+    "url": "/PC-folio.github.io/static/media/PS4.9b522815.png"
+  },
+  {
     "revision": "ef3141db6c47438bb10cb96b8fa655ad",
     "url": "/PC-folio.github.io/static/media/PabloCanton-CV.ef3141db.pdf"
   },
@@ -118,6 +134,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "06f70c8972e551233945cfa71aa829aa",
     "url": "/PC-folio.github.io/static/media/Posti.06f70c89.jpg"
+  },
+  {
+    "revision": "0c1d0edd9fbaed22278e2b3a9bfea756",
+    "url": "/PC-folio.github.io/static/media/PostiAll.0c1d0edd.jpg"
+  },
+  {
+    "revision": "29bd82a25db4da249b4e043068899a59",
+    "url": "/PC-folio.github.io/static/media/PostiLock.29bd82a2.jpg"
   },
   {
     "revision": "b158a54888c30eb19e4b7f2797bcf019",
