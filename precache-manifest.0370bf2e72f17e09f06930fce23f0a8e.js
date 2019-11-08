@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a5669734b1165f834c67f9e3ebb3510",
+    "revision": "72a25615b76cd988d136351f49c50114",
     "url": "/PC-folio.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PC-folio.github.io/static/css/2.7f589655.chunk.css"
   },
   {
-    "revision": "b746285c8cf53c829f6c",
+    "revision": "a4abe47caf884c89c0e3",
     "url": "/PC-folio.github.io/static/css/main.7a04e840.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PC-folio.github.io/static/js/2.17339df1.chunk.js"
   },
   {
-    "revision": "b746285c8cf53c829f6c",
-    "url": "/PC-folio.github.io/static/js/main.68ac1b24.chunk.js"
+    "revision": "a4abe47caf884c89c0e3",
+    "url": "/PC-folio.github.io/static/js/main.206f5685.chunk.js"
   },
   {
     "revision": "8033df83e729a8dc93ba",
