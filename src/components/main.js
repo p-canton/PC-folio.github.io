@@ -11,9 +11,12 @@ import HackathonGOC from './hackathonGOC';
 import HackathonAD from './hackathonAD';
 import HackathonWK from './hackathonWK';
 import BetsFriends from './betsFriends';
+import ScrollToTop from './ScrollToTop';
 
 
 const Main = () => (
+  <>
+  <ScrollToTop />
   <Switch>
     <Route exact path="/" component={LandingPage}/>
     <Route path="/aboutme" component={AboutMe} />
@@ -26,6 +29,7 @@ const Main = () => (
     <Route path="/hackathonWK" component={HackathonWK} />
     <Route path="/betsFriends" component={BetsFriends} />
   </Switch>
+  </>
 )
 
 export default Main;
